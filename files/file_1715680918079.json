@@ -1,0 +1,10 @@
+{
+  "description": "Study for upcoming exams: history, math, biology",
+  "fileSize": "0.6mb",
+  "close": "false",
+  "tag": {
+    "isOpen": "true",
+    "tagTitle": "Study",
+    "tagColor": "blue"
+  }
+}

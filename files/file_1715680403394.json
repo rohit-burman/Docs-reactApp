@@ -1,0 +1,10 @@
+{
+  "description": "Buy groceries for the week: milk, eggs, bread, vegetables",
+  "fileSize": "0.5mb",
+  "close": "false",
+  "tag": {
+    "isOpen": "true",
+    "tagTitle": "Shopping",
+    "tagColor": "green"
+  }
+}

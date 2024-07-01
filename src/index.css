@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("https://cdn.jsdelivr.net/gh/repalash/gilroy-free-webfont@fonts/Gilroy-Regular.eot");
+  src: local("Gilroy Regular"), local("Gilroy-Regular"),
+    url("https://cdn.jsdelivr.net/gh/repalash/gilroy-free-webfont@fonts/Gilroy-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.jsdelivr.net/gh/repalash/gilroy-free-webfont@fonts/Gilroy-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/repalash/gilroy-free-webfont@fonts/Gilroy-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  font-family: "Gilroy";
+}
+
+::selection {
+  color: salmon;
+}
