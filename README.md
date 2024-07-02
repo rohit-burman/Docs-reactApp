@@ -4,10 +4,10 @@
 
     
 **This app uses react as fronted and express js routes to connect the data.
-All notes file are saved locally in .txt file format**
+All notes file are saved locally in .txt file format.
+Framer motion is used for floating cards.** 
 
-
-### Usage
+### Usage   
 run ` npm run dev` for react   
 install nodemon ` npm i nodemon `    
 run ` npx nodemon index.cjs `    
